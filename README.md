@@ -57,4 +57,5 @@ OUTPUT:
 
 
 RESULT:
+
 Thus, open, read, write, close , create , fork() system calls implemented successfully using c program.
